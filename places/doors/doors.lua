@@ -2,8 +2,8 @@
 --!optimize 2
 
 OrionLib:MakeNotification({
-                    Name = "XSKil Msa 免费",
-                    Content = "欢迎使用【汉化作者已退圈】",
+                    Name = "NXE mspaint汉化",
+                    Content = "欢迎使用",
                     Time = 4
                 })    
                 
